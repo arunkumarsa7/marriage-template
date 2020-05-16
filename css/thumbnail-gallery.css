@@ -1,0 +1,60 @@
+/*!
+ * Start Bootstrap - Thumbnail Gallery (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 35px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.thumb-normal {
+    margin-bottom: 20px;
+}
+
+.thumb-expanded {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 40px 0;
+}
+
+.caption {
+    margin: auto;
+    display: block;    
+    text-align: center;   
+    font-family: 'Tangerine', cursive;
+    font-size: 28px;
+}
+
+.page-header{
+	font-family: 'Tangerine', cursive !important;
+	font-size: 40px !important;
+	border-bottom: 0px !important;
+	margin: 30px 5% 0px !important;
+}
+
+.page-title{
+	font-family: 'Tangerine', cursive;
+	font-size: 45px;
+	font-weight: bold;
+}
+
+.row{
+	margin-bottom: -20px !important;
+}
+
+.nav{
+    max-height: 775px;
+    overflow-y:auto;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding-top: 25px;
+}
+
+.engagement{
+	height: 275px !important;
+}
